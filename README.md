@@ -1,19 +1,9 @@
-# Create a README.md for the React Calculator App with the detailed content provided by the user
-from pathlib import Path
 
-calc_readme_path = Path("/mnt/data/README_Calculator.md")
-
-calc_readme_content = """
 # 🧮 React Calculator App
 
 A modern, responsive calculator built with **React** and **Vite**. This simple project performs basic arithmetic operations and demonstrates clean component-based architecture with React Hooks and styling.
 
 ---
-
-## 📸 Screenshot
-
-![Calculator UI](./src/assets/calculator-preview.png) <!-- Optional if you add an image in assets -->
-
 ---
 
 ## 🚀 Features
